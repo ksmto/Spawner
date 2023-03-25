@@ -1,0 +1,10 @@
+
+Rcsharpsquid:S3903ü"(Move 'Direction' into a named namespace.(‘¸‘µüÿÿÿÿ8«´×ªñ0
+Hcsharpsquid:S3903†"#Move 'Axis' into a named namespace.(Ì•î•8¬´×ªñ0
+Rcsharpsquid:S3903¹"(Move 'Continuum' into a named namespace.(ìÑÏºüÿÿÿÿ8¬´×ªñ0
+\csharpsquid:S2190¶"2Add a way to break out of this method's recursion.(êì“üÿÿÿÿ8¬´×ªñ0
+~csharpsquid:S3267‚"TLoop should be simplified by calling Select(collider => collider.attachedRigidbody))(ŽžóÃûÿÿÿÿ8ª«²«ñ0
+~csharpsquid:S3267Š"TLoop should be simplified by calling Select(collider => collider.attachedRigidbody))(ðà–Çþÿÿÿÿ8ª«²«ñ0
+_csharpsquid:S41369"6All 'GripPressed' method overloads should be adjacent.(–Ùñ­þÿÿÿÿ8¬´×ªñ0
+bcsharpsquid:S4136;">All 'AlternateUsePressed' method overloads should be adjacent.(Þõ¬·8¬´×ªñ0
+ecsharpsquid:S4136A"<All 'VelocityDirection' method overloads should be adjacent.(³Òƒÿÿÿÿÿ8¬´×ªñ0
